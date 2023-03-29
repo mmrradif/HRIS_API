@@ -1,0 +1,264 @@
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRISmodels\bin\Debug\net7.0\HRISdatabaseModels.deps.json
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRISmodels\bin\Debug\net7.0\HRISdatabaseModels.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRISmodels\bin\Debug\net7.0\HRISdatabaseModels.pdb
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.csproj.AssemblyReference.cache
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.GeneratedMSBuildEditorConfig.editorconfig
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.AssemblyInfoInputs.cache
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.AssemblyInfo.cs
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.csproj.CoreCompileInputs.cache
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\refint\HRISdatabaseModels.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.pdb
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\ref\HRISdatabaseModels.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRISmodels\bin\Debug\net7.0\HRISdatabaseModels.deps.json
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRISmodels\bin\Debug\net7.0\HRISdatabaseModels.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRISmodels\bin\Debug\net7.0\HRISdatabaseModels.pdb
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.csproj.AssemblyReference.cache
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.GeneratedMSBuildEditorConfig.editorconfig
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.AssemblyInfoInputs.cache
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.AssemblyInfo.cs
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.csproj.CoreCompileInputs.cache
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\refint\HRISdatabaseModels.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.pdb
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\ref\HRISdatabaseModels.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRISmodels\bin\Debug\net7.0\HRISdatabaseModels.deps.json
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRISmodels\bin\Debug\net7.0\HRISdatabaseModels.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRISmodels\bin\Debug\net7.0\HRISdatabaseModels.pdb
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.csproj.AssemblyReference.cache
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.GeneratedMSBuildEditorConfig.editorconfig
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.AssemblyInfoInputs.cache
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.AssemblyInfo.cs
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.csproj.CoreCompileInputs.cache
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\refint\HRISdatabaseModels.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.pdb
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\ref\HRISdatabaseModels.dll
+G:\Human Resource Information Systems\With Authentication Authorization\HumanResourceInformationSystems\HRISmodels\bin\Debug\net7.0\HRISdatabaseModels.deps.json
+G:\Human Resource Information Systems\With Authentication Authorization\HumanResourceInformationSystems\HRISmodels\bin\Debug\net7.0\HRISdatabaseModels.dll
+G:\Human Resource Information Systems\With Authentication Authorization\HumanResourceInformationSystems\HRISmodels\bin\Debug\net7.0\HRISdatabaseModels.pdb
+G:\Human Resource Information Systems\With Authentication Authorization\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.csproj.AssemblyReference.cache
+G:\Human Resource Information Systems\With Authentication Authorization\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.GeneratedMSBuildEditorConfig.editorconfig
+G:\Human Resource Information Systems\With Authentication Authorization\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.AssemblyInfoInputs.cache
+G:\Human Resource Information Systems\With Authentication Authorization\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.AssemblyInfo.cs
+G:\Human Resource Information Systems\With Authentication Authorization\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.csproj.CoreCompileInputs.cache
+G:\Human Resource Information Systems\With Authentication Authorization\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.dll
+G:\Human Resource Information Systems\With Authentication Authorization\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\refint\HRISdatabaseModels.dll
+G:\Human Resource Information Systems\With Authentication Authorization\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.pdb
+G:\Human Resource Information Systems\With Authentication Authorization\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\ref\HRISdatabaseModels.dll
+C:\Users\MY\Downloads\HumanResourceInformationSystems\HRISmodels\bin\Debug\net7.0\HRISdatabaseModels.deps.json
+C:\Users\MY\Downloads\HumanResourceInformationSystems\HRISmodels\bin\Debug\net7.0\HRISdatabaseModels.dll
+C:\Users\MY\Downloads\HumanResourceInformationSystems\HRISmodels\bin\Debug\net7.0\HRISdatabaseModels.pdb
+C:\Users\MY\Downloads\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.csproj.AssemblyReference.cache
+C:\Users\MY\Downloads\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MY\Downloads\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.AssemblyInfoInputs.cache
+C:\Users\MY\Downloads\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.AssemblyInfo.cs
+C:\Users\MY\Downloads\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.csproj.CoreCompileInputs.cache
+C:\Users\MY\Downloads\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.dll
+C:\Users\MY\Downloads\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\refint\HRISdatabaseModels.dll
+C:\Users\MY\Downloads\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.pdb
+C:\Users\MY\Downloads\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\ref\HRISdatabaseModels.dll
+F:\Final Project\10thMid_ProjectProgress\HumanResourceInformationSystems\HRISmodels\bin\Debug\net7.0\HRISdatabaseModels.deps.json
+F:\Final Project\10thMid_ProjectProgress\HumanResourceInformationSystems\HRISmodels\bin\Debug\net7.0\HRISdatabaseModels.dll
+F:\Final Project\10thMid_ProjectProgress\HumanResourceInformationSystems\HRISmodels\bin\Debug\net7.0\HRISdatabaseModels.pdb
+F:\Final Project\10thMid_ProjectProgress\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.csproj.AssemblyReference.cache
+F:\Final Project\10thMid_ProjectProgress\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.GeneratedMSBuildEditorConfig.editorconfig
+F:\Final Project\10thMid_ProjectProgress\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.AssemblyInfoInputs.cache
+F:\Final Project\10thMid_ProjectProgress\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.AssemblyInfo.cs
+F:\Final Project\10thMid_ProjectProgress\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.csproj.CoreCompileInputs.cache
+F:\Final Project\10thMid_ProjectProgress\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.dll
+F:\Final Project\10thMid_ProjectProgress\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\refint\HRISdatabaseModels.dll
+F:\Final Project\10thMid_ProjectProgress\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.pdb
+F:\Final Project\10thMid_ProjectProgress\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\ref\HRISdatabaseModels.dll
+G:\Human Resource Information Systems\Today\HumanResourceInformationSystems - Copy\HRISmodels\bin\Debug\net7.0\HRISdatabaseModels.deps.json
+G:\Human Resource Information Systems\Today\HumanResourceInformationSystems - Copy\HRISmodels\bin\Debug\net7.0\HRISdatabaseModels.dll
+G:\Human Resource Information Systems\Today\HumanResourceInformationSystems - Copy\HRISmodels\bin\Debug\net7.0\HRISdatabaseModels.pdb
+G:\Human Resource Information Systems\Today\HumanResourceInformationSystems - Copy\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.csproj.AssemblyReference.cache
+G:\Human Resource Information Systems\Today\HumanResourceInformationSystems - Copy\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.GeneratedMSBuildEditorConfig.editorconfig
+G:\Human Resource Information Systems\Today\HumanResourceInformationSystems - Copy\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.AssemblyInfoInputs.cache
+G:\Human Resource Information Systems\Today\HumanResourceInformationSystems - Copy\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.AssemblyInfo.cs
+G:\Human Resource Information Systems\Today\HumanResourceInformationSystems - Copy\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.csproj.CoreCompileInputs.cache
+G:\Human Resource Information Systems\Today\HumanResourceInformationSystems - Copy\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.dll
+G:\Human Resource Information Systems\Today\HumanResourceInformationSystems - Copy\HRISmodels\obj\Debug\net7.0\refint\HRISdatabaseModels.dll
+G:\Human Resource Information Systems\Today\HumanResourceInformationSystems - Copy\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.pdb
+G:\Human Resource Information Systems\Today\HumanResourceInformationSystems - Copy\HRISmodels\obj\Debug\net7.0\ref\HRISdatabaseModels.dll
+G:\Human Resource Information Systems\Today\HumanResourceInformationSystems\HRISmodels\bin\Debug\net7.0\HRISdatabaseModels.deps.json
+G:\Human Resource Information Systems\Today\HumanResourceInformationSystems\HRISmodels\bin\Debug\net7.0\HRISdatabaseModels.dll
+G:\Human Resource Information Systems\Today\HumanResourceInformationSystems\HRISmodels\bin\Debug\net7.0\HRISdatabaseModels.pdb
+G:\Human Resource Information Systems\Today\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.csproj.AssemblyReference.cache
+G:\Human Resource Information Systems\Today\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.GeneratedMSBuildEditorConfig.editorconfig
+G:\Human Resource Information Systems\Today\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.AssemblyInfoInputs.cache
+G:\Human Resource Information Systems\Today\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.AssemblyInfo.cs
+G:\Human Resource Information Systems\Today\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.csproj.CoreCompileInputs.cache
+G:\Human Resource Information Systems\Today\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.dll
+G:\Human Resource Information Systems\Today\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\refint\HRISdatabaseModels.dll
+G:\Human Resource Information Systems\Today\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.pdb
+G:\Human Resource Information Systems\Today\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\ref\HRISdatabaseModels.dll
+G:\Practice\HumanResourceInformationSystems\HRISmodels\bin\Debug\net7.0\HRISdatabaseModels.deps.json
+G:\Practice\HumanResourceInformationSystems\HRISmodels\bin\Debug\net7.0\HRISdatabaseModels.dll
+G:\Practice\HumanResourceInformationSystems\HRISmodels\bin\Debug\net7.0\HRISdatabaseModels.pdb
+G:\Practice\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.csproj.AssemblyReference.cache
+G:\Practice\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.GeneratedMSBuildEditorConfig.editorconfig
+G:\Practice\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.AssemblyInfoInputs.cache
+G:\Practice\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.AssemblyInfo.cs
+G:\Practice\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.csproj.CoreCompileInputs.cache
+G:\Practice\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.dll
+G:\Practice\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\refint\HRISdatabaseModels.dll
+G:\Practice\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.pdb
+G:\Practice\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\ref\HRISdatabaseModels.dll
+G:\Practice\Store Procedures\HumanResourceInformationSystems\HRISmodels\bin\Debug\net7.0\HRISdatabaseModels.deps.json
+G:\Practice\Store Procedures\HumanResourceInformationSystems\HRISmodels\bin\Debug\net7.0\HRISdatabaseModels.dll
+G:\Practice\Store Procedures\HumanResourceInformationSystems\HRISmodels\bin\Debug\net7.0\HRISdatabaseModels.pdb
+G:\Practice\Store Procedures\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.csproj.AssemblyReference.cache
+G:\Practice\Store Procedures\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.GeneratedMSBuildEditorConfig.editorconfig
+G:\Practice\Store Procedures\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.AssemblyInfoInputs.cache
+G:\Practice\Store Procedures\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.AssemblyInfo.cs
+G:\Practice\Store Procedures\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.csproj.CoreCompileInputs.cache
+G:\Practice\Store Procedures\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.dll
+G:\Practice\Store Procedures\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\refint\HRISdatabaseModels.dll
+G:\Practice\Store Procedures\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.pdb
+G:\Practice\Store Procedures\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\ref\HRISdatabaseModels.dll
+G:\Practice\Store Procedures\Store Procedure Practice\HumanResourceInformationSystems\HRISmodels\bin\Debug\net7.0\HRISdatabaseModels.deps.json
+G:\Practice\Store Procedures\Store Procedure Practice\HumanResourceInformationSystems\HRISmodels\bin\Debug\net7.0\HRISdatabaseModels.dll
+G:\Practice\Store Procedures\Store Procedure Practice\HumanResourceInformationSystems\HRISmodels\bin\Debug\net7.0\HRISdatabaseModels.pdb
+G:\Practice\Store Procedures\Store Procedure Practice\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.csproj.AssemblyReference.cache
+G:\Practice\Store Procedures\Store Procedure Practice\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.GeneratedMSBuildEditorConfig.editorconfig
+G:\Practice\Store Procedures\Store Procedure Practice\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.AssemblyInfoInputs.cache
+G:\Practice\Store Procedures\Store Procedure Practice\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.AssemblyInfo.cs
+G:\Practice\Store Procedures\Store Procedure Practice\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.csproj.CoreCompileInputs.cache
+G:\Practice\Store Procedures\Store Procedure Practice\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.dll
+G:\Practice\Store Procedures\Store Procedure Practice\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\refint\HRISdatabaseModels.dll
+G:\Practice\Store Procedures\Store Procedure Practice\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.pdb
+G:\Practice\Store Procedures\Store Procedure Practice\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\ref\HRISdatabaseModels.dll
+G:\Project Version 2\Generic & SP\Store Procedure Practice\HumanResourceInformationSystems\HRISmodels\bin\Debug\net7.0\HRISdatabaseModels.deps.json
+G:\Project Version 2\Generic & SP\Store Procedure Practice\HumanResourceInformationSystems\HRISmodels\bin\Debug\net7.0\HRISdatabaseModels.dll
+G:\Project Version 2\Generic & SP\Store Procedure Practice\HumanResourceInformationSystems\HRISmodels\bin\Debug\net7.0\HRISdatabaseModels.pdb
+G:\Project Version 2\Generic & SP\Store Procedure Practice\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.csproj.AssemblyReference.cache
+G:\Project Version 2\Generic & SP\Store Procedure Practice\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.GeneratedMSBuildEditorConfig.editorconfig
+G:\Project Version 2\Generic & SP\Store Procedure Practice\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.AssemblyInfoInputs.cache
+G:\Project Version 2\Generic & SP\Store Procedure Practice\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.AssemblyInfo.cs
+G:\Project Version 2\Generic & SP\Store Procedure Practice\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.csproj.CoreCompileInputs.cache
+G:\Project Version 2\Generic & SP\Store Procedure Practice\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.dll
+G:\Project Version 2\Generic & SP\Store Procedure Practice\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\refint\HRISdatabaseModels.dll
+G:\Project Version 2\Generic & SP\Store Procedure Practice\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.pdb
+G:\Project Version 2\Generic & SP\Store Procedure Practice\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\ref\HRISdatabaseModels.dll
+G:\Project Version 2\Generic Controller & Store Procedure\Store Procedure Practice\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.csproj.AssemblyReference.cache
+G:\Project Version 2\Generic Controller & Store Procedure\Store Procedure Practice\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.GeneratedMSBuildEditorConfig.editorconfig
+G:\Project Version 2\Generic Controller & Store Procedure\Store Procedure Practice\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.AssemblyInfoInputs.cache
+G:\Project Version 2\Generic Controller & Store Procedure\Store Procedure Practice\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.AssemblyInfo.cs
+G:\Project Version 2\Generic Controller & Store Procedure\Store Procedure Practice\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.csproj.CoreCompileInputs.cache
+G:\Project Version 2\Generic Controller & Store Procedure\Store Procedure Practice\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.dll
+G:\Project Version 2\Generic Controller & Store Procedure\Store Procedure Practice\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\refint\HRISdatabaseModels.dll
+G:\Project Version 2\Generic Controller & Store Procedure\Store Procedure Practice\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.pdb
+G:\Project Version 2\Generic Controller & Store Procedure\Store Procedure Practice\HumanResourceInformationSystems\HRISmodels\bin\Debug\net7.0\HRISdatabaseModels.deps.json
+G:\Project Version 2\Generic Controller & Store Procedure\Store Procedure Practice\HumanResourceInformationSystems\HRISmodels\bin\Debug\net7.0\HRISdatabaseModels.dll
+G:\Project Version 2\Generic Controller & Store Procedure\Store Procedure Practice\HumanResourceInformationSystems\HRISmodels\bin\Debug\net7.0\HRISdatabaseModels.pdb
+G:\Project Version 2\Generic Controller & Store Procedure\Store Procedure Practice\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\ref\HRISdatabaseModels.dll
+G:\Version 1 API\HumanResourceInformationSystems\HRISmodels\bin\Debug\net7.0\HRISdatabaseModels.deps.json
+G:\Version 1 API\HumanResourceInformationSystems\HRISmodels\bin\Debug\net7.0\HRISdatabaseModels.dll
+G:\Version 1 API\HumanResourceInformationSystems\HRISmodels\bin\Debug\net7.0\HRISdatabaseModels.pdb
+G:\Version 1 API\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.csproj.AssemblyReference.cache
+G:\Version 1 API\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.GeneratedMSBuildEditorConfig.editorconfig
+G:\Version 1 API\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.AssemblyInfoInputs.cache
+G:\Version 1 API\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.AssemblyInfo.cs
+G:\Version 1 API\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.csproj.CoreCompileInputs.cache
+G:\Version 1 API\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.dll
+G:\Version 1 API\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\refint\HRISdatabaseModels.dll
+G:\Version 1 API\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.pdb
+G:\Version 1 API\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\ref\HRISdatabaseModels.dll
+G:\Version 2\HumanResourceInformationSystems\HRISmodels\bin\Debug\net7.0\HRISdatabaseModels.deps.json
+G:\Version 2\HumanResourceInformationSystems\HRISmodels\bin\Debug\net7.0\HRISdatabaseModels.dll
+G:\Version 2\HumanResourceInformationSystems\HRISmodels\bin\Debug\net7.0\HRISdatabaseModels.pdb
+G:\Version 2\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.csproj.AssemblyReference.cache
+G:\Version 2\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.GeneratedMSBuildEditorConfig.editorconfig
+G:\Version 2\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.AssemblyInfoInputs.cache
+G:\Version 2\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.AssemblyInfo.cs
+G:\Version 2\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.csproj.CoreCompileInputs.cache
+G:\Version 2\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.dll
+G:\Version 2\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\refint\HRISdatabaseModels.dll
+G:\Version 2\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.pdb
+G:\Version 2\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\ref\HRISdatabaseModels.dll
+G:\Group Project\Version2\HumanResourceInformationSystems\HRISmodels\bin\Debug\net7.0\HRISdatabaseModels.deps.json
+G:\Group Project\Version2\HumanResourceInformationSystems\HRISmodels\bin\Debug\net7.0\HRISdatabaseModels.dll
+G:\Group Project\Version2\HumanResourceInformationSystems\HRISmodels\bin\Debug\net7.0\HRISdatabaseModels.pdb
+G:\Group Project\Version2\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.csproj.AssemblyReference.cache
+G:\Group Project\Version2\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.GeneratedMSBuildEditorConfig.editorconfig
+G:\Group Project\Version2\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.AssemblyInfoInputs.cache
+G:\Group Project\Version2\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.AssemblyInfo.cs
+G:\Group Project\Version2\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.csproj.CoreCompileInputs.cache
+G:\Group Project\Version2\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.dll
+G:\Group Project\Version2\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\refint\HRISdatabaseModels.dll
+G:\Group Project\Version2\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.pdb
+G:\Group Project\Version2\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\ref\HRISdatabaseModels.dll
+F:\Final Project\Last Merge\HumanResourceInformationSystems\HRISmodels\bin\Debug\net7.0\HRISdatabaseModels.deps.json
+F:\Final Project\Last Merge\HumanResourceInformationSystems\HRISmodels\bin\Debug\net7.0\HRISdatabaseModels.dll
+F:\Final Project\Last Merge\HumanResourceInformationSystems\HRISmodels\bin\Debug\net7.0\HRISdatabaseModels.pdb
+F:\Final Project\Last Merge\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.csproj.AssemblyReference.cache
+F:\Final Project\Last Merge\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.GeneratedMSBuildEditorConfig.editorconfig
+F:\Final Project\Last Merge\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.AssemblyInfoInputs.cache
+F:\Final Project\Last Merge\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.AssemblyInfo.cs
+F:\Final Project\Last Merge\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.csproj.CoreCompileInputs.cache
+F:\Final Project\Last Merge\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.dll
+F:\Final Project\Last Merge\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\refint\HRISdatabaseModels.dll
+F:\Final Project\Last Merge\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.pdb
+F:\Final Project\Last Merge\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\ref\HRISdatabaseModels.dll
+E:\Last Merge\HumanResourceInformationSystems\HRISmodels\bin\Debug\net7.0\HRISdatabaseModels.deps.json
+E:\Last Merge\HumanResourceInformationSystems\HRISmodels\bin\Debug\net7.0\HRISdatabaseModels.dll
+E:\Last Merge\HumanResourceInformationSystems\HRISmodels\bin\Debug\net7.0\HRISdatabaseModels.pdb
+E:\Last Merge\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.csproj.AssemblyReference.cache
+E:\Last Merge\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.GeneratedMSBuildEditorConfig.editorconfig
+E:\Last Merge\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.AssemblyInfoInputs.cache
+E:\Last Merge\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.AssemblyInfo.cs
+E:\Last Merge\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.csproj.CoreCompileInputs.cache
+E:\Last Merge\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.dll
+E:\Last Merge\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\refint\HRISdatabaseModels.dll
+E:\Last Merge\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.pdb
+E:\Last Merge\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\ref\HRISdatabaseModels.dll
+E:\Last Merge\HRIS_Auth_with_ERROR\HumanResourceInformationSystems\HRISmodels\bin\Debug\net7.0\HRISdatabaseModels.deps.json
+E:\Last Merge\HRIS_Auth_with_ERROR\HumanResourceInformationSystems\HRISmodels\bin\Debug\net7.0\HRISdatabaseModels.dll
+E:\Last Merge\HRIS_Auth_with_ERROR\HumanResourceInformationSystems\HRISmodels\bin\Debug\net7.0\HRISdatabaseModels.pdb
+E:\Last Merge\HRIS_Auth_with_ERROR\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.csproj.AssemblyReference.cache
+E:\Last Merge\HRIS_Auth_with_ERROR\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.GeneratedMSBuildEditorConfig.editorconfig
+E:\Last Merge\HRIS_Auth_with_ERROR\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.AssemblyInfoInputs.cache
+E:\Last Merge\HRIS_Auth_with_ERROR\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.AssemblyInfo.cs
+E:\Last Merge\HRIS_Auth_with_ERROR\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.csproj.CoreCompileInputs.cache
+E:\Last Merge\HRIS_Auth_with_ERROR\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.dll
+E:\Last Merge\HRIS_Auth_with_ERROR\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\refint\HRISdatabaseModels.dll
+E:\Last Merge\HRIS_Auth_with_ERROR\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.pdb
+E:\Last Merge\HRIS_Auth_with_ERROR\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\ref\HRISdatabaseModels.dll
+E:\Last Merge\HRIS_Angular_Auth\HRIS_login_Register\HumanResourceInformationSystems\HRISmodels\bin\Debug\net7.0\HRISdatabaseModels.deps.json
+E:\Last Merge\HRIS_Angular_Auth\HRIS_login_Register\HumanResourceInformationSystems\HRISmodels\bin\Debug\net7.0\HRISdatabaseModels.dll
+E:\Last Merge\HRIS_Angular_Auth\HRIS_login_Register\HumanResourceInformationSystems\HRISmodels\bin\Debug\net7.0\HRISdatabaseModels.pdb
+E:\Last Merge\HRIS_Angular_Auth\HRIS_login_Register\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.csproj.AssemblyReference.cache
+E:\Last Merge\HRIS_Angular_Auth\HRIS_login_Register\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.GeneratedMSBuildEditorConfig.editorconfig
+E:\Last Merge\HRIS_Angular_Auth\HRIS_login_Register\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.AssemblyInfoInputs.cache
+E:\Last Merge\HRIS_Angular_Auth\HRIS_login_Register\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.AssemblyInfo.cs
+E:\Last Merge\HRIS_Angular_Auth\HRIS_login_Register\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.csproj.CoreCompileInputs.cache
+E:\Last Merge\HRIS_Angular_Auth\HRIS_login_Register\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.dll
+E:\Last Merge\HRIS_Angular_Auth\HRIS_login_Register\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\refint\HRISdatabaseModels.dll
+E:\Last Merge\HRIS_Angular_Auth\HRIS_login_Register\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.pdb
+E:\Last Merge\HRIS_Angular_Auth\HRIS_login_Register\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\ref\HRISdatabaseModels.dll
+G:\Group Project\Salma Tabassum Jahan\HRIS_login_Register_JWT\HumanResourceInformationSystems\HRISmodels\bin\Debug\net7.0\HRISdatabaseModels.deps.json
+G:\Group Project\Salma Tabassum Jahan\HRIS_login_Register_JWT\HumanResourceInformationSystems\HRISmodels\bin\Debug\net7.0\HRISdatabaseModels.dll
+G:\Group Project\Salma Tabassum Jahan\HRIS_login_Register_JWT\HumanResourceInformationSystems\HRISmodels\bin\Debug\net7.0\HRISdatabaseModels.pdb
+G:\Group Project\Salma Tabassum Jahan\HRIS_login_Register_JWT\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.csproj.AssemblyReference.cache
+G:\Group Project\Salma Tabassum Jahan\HRIS_login_Register_JWT\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.GeneratedMSBuildEditorConfig.editorconfig
+G:\Group Project\Salma Tabassum Jahan\HRIS_login_Register_JWT\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.AssemblyInfoInputs.cache
+G:\Group Project\Salma Tabassum Jahan\HRIS_login_Register_JWT\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.AssemblyInfo.cs
+G:\Group Project\Salma Tabassum Jahan\HRIS_login_Register_JWT\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.csproj.CoreCompileInputs.cache
+G:\Group Project\Salma Tabassum Jahan\HRIS_login_Register_JWT\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.dll
+G:\Group Project\Salma Tabassum Jahan\HRIS_login_Register_JWT\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\refint\HRISdatabaseModels.dll
+G:\Group Project\Salma Tabassum Jahan\HRIS_login_Register_JWT\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.pdb
+G:\Group Project\Salma Tabassum Jahan\HRIS_login_Register_JWT\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\ref\HRISdatabaseModels.dll
+G:\Group Project\Version 5\Server\JWT\HumanResourceInformationSystems\HRISmodels\bin\Debug\net7.0\HRISdatabaseModels.deps.json
+G:\Group Project\Version 5\Server\JWT\HumanResourceInformationSystems\HRISmodels\bin\Debug\net7.0\HRISdatabaseModels.dll
+G:\Group Project\Version 5\Server\JWT\HumanResourceInformationSystems\HRISmodels\bin\Debug\net7.0\HRISdatabaseModels.pdb
+G:\Group Project\Version 5\Server\JWT\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.csproj.AssemblyReference.cache
+G:\Group Project\Version 5\Server\JWT\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.GeneratedMSBuildEditorConfig.editorconfig
+G:\Group Project\Version 5\Server\JWT\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.AssemblyInfoInputs.cache
+G:\Group Project\Version 5\Server\JWT\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.AssemblyInfo.cs
+G:\Group Project\Version 5\Server\JWT\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.csproj.CoreCompileInputs.cache
+G:\Group Project\Version 5\Server\JWT\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.dll
+G:\Group Project\Version 5\Server\JWT\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\refint\HRISdatabaseModels.dll
+G:\Group Project\Version 5\Server\JWT\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\HRISdatabaseModels.pdb
+G:\Group Project\Version 5\Server\JWT\HumanResourceInformationSystems\HRISmodels\obj\Debug\net7.0\ref\HRISdatabaseModels.dll

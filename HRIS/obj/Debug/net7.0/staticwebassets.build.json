@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "cL4e9jqgA+pe3ymujCcLOjSaHi8EMnbDA6UDYdVWkDI=",
+  "Source": "HRIS",
+  "BasePath": "_content/HRIS",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,330 @@
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRISinterfaces\bin\Debug\net7.0\HRISgenericInterfaces.deps.json
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRISinterfaces\bin\Debug\net7.0\HRISgenericInterfaces.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRISinterfaces\bin\Debug\net7.0\HRISgenericInterfaces.pdb
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRISinterfaces\bin\Debug\net7.0\HRISdatabaseModels.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRISinterfaces\bin\Debug\net7.0\HRISdatabaseModels.pdb
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.csproj.AssemblyReference.cache
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.AssemblyInfoInputs.cache
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.AssemblyInfo.cs
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.csproj.CoreCompileInputs.cache
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.csproj.CopyComplete
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\refint\HRISgenericInterfaces.dll
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.pdb
+G:\Human Resource Information Systems\.Net 7\ASP .Net Core Web API\Working\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\ref\HRISgenericInterfaces.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRISinterfaces\bin\Debug\net7.0\HRISgenericInterfaces.deps.json
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRISinterfaces\bin\Debug\net7.0\HRISgenericInterfaces.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRISinterfaces\bin\Debug\net7.0\HRISgenericInterfaces.pdb
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRISinterfaces\bin\Debug\net7.0\HRISdatabaseModels.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRISinterfaces\bin\Debug\net7.0\HRISdatabaseModels.pdb
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.csproj.AssemblyReference.cache
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.AssemblyInfoInputs.cache
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.AssemblyInfo.cs
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.csproj.CoreCompileInputs.cache
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.csproj.CopyComplete
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\refint\HRISgenericInterfaces.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.pdb
+G:\Human Resource Information Systems\Generic Repository Pattern\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\ref\HRISgenericInterfaces.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRISinterfaces\bin\Debug\net7.0\HRISgenericInterfaces.deps.json
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRISinterfaces\bin\Debug\net7.0\HRISgenericInterfaces.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRISinterfaces\bin\Debug\net7.0\HRISgenericInterfaces.pdb
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRISinterfaces\bin\Debug\net7.0\HRISdatabaseModels.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRISinterfaces\bin\Debug\net7.0\HRISdatabaseModels.pdb
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.csproj.AssemblyReference.cache
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.AssemblyInfoInputs.cache
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.AssemblyInfo.cs
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.csproj.CoreCompileInputs.cache
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.csproj.CopyComplete
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\refint\HRISgenericInterfaces.dll
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.pdb
+G:\Human Resource Information Systems\Generic Repository Pattern\New\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\ref\HRISgenericInterfaces.dll
+G:\Human Resource Information Systems\With Authentication Authorization\HumanResourceInformationSystems\HRISinterfaces\bin\Debug\net7.0\HRISgenericInterfaces.deps.json
+G:\Human Resource Information Systems\With Authentication Authorization\HumanResourceInformationSystems\HRISinterfaces\bin\Debug\net7.0\HRISgenericInterfaces.dll
+G:\Human Resource Information Systems\With Authentication Authorization\HumanResourceInformationSystems\HRISinterfaces\bin\Debug\net7.0\HRISgenericInterfaces.pdb
+G:\Human Resource Information Systems\With Authentication Authorization\HumanResourceInformationSystems\HRISinterfaces\bin\Debug\net7.0\HRISdatabaseModels.dll
+G:\Human Resource Information Systems\With Authentication Authorization\HumanResourceInformationSystems\HRISinterfaces\bin\Debug\net7.0\HRISdatabaseModels.pdb
+G:\Human Resource Information Systems\With Authentication Authorization\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.csproj.AssemblyReference.cache
+G:\Human Resource Information Systems\With Authentication Authorization\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+G:\Human Resource Information Systems\With Authentication Authorization\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.AssemblyInfoInputs.cache
+G:\Human Resource Information Systems\With Authentication Authorization\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.AssemblyInfo.cs
+G:\Human Resource Information Systems\With Authentication Authorization\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.csproj.CoreCompileInputs.cache
+G:\Human Resource Information Systems\With Authentication Authorization\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.csproj.CopyComplete
+G:\Human Resource Information Systems\With Authentication Authorization\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.dll
+G:\Human Resource Information Systems\With Authentication Authorization\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\refint\HRISgenericInterfaces.dll
+G:\Human Resource Information Systems\With Authentication Authorization\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.pdb
+G:\Human Resource Information Systems\With Authentication Authorization\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\ref\HRISgenericInterfaces.dll
+C:\Users\MY\Downloads\HumanResourceInformationSystems\HRISinterfaces\bin\Debug\net7.0\HRISgenericInterfaces.deps.json
+C:\Users\MY\Downloads\HumanResourceInformationSystems\HRISinterfaces\bin\Debug\net7.0\HRISgenericInterfaces.dll
+C:\Users\MY\Downloads\HumanResourceInformationSystems\HRISinterfaces\bin\Debug\net7.0\HRISgenericInterfaces.pdb
+C:\Users\MY\Downloads\HumanResourceInformationSystems\HRISinterfaces\bin\Debug\net7.0\HRISdatabaseModels.dll
+C:\Users\MY\Downloads\HumanResourceInformationSystems\HRISinterfaces\bin\Debug\net7.0\HRISdatabaseModels.pdb
+C:\Users\MY\Downloads\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.csproj.AssemblyReference.cache
+C:\Users\MY\Downloads\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MY\Downloads\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.AssemblyInfoInputs.cache
+C:\Users\MY\Downloads\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.AssemblyInfo.cs
+C:\Users\MY\Downloads\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.csproj.CoreCompileInputs.cache
+C:\Users\MY\Downloads\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.csproj.CopyComplete
+C:\Users\MY\Downloads\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.dll
+C:\Users\MY\Downloads\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\refint\HRISgenericInterfaces.dll
+C:\Users\MY\Downloads\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.pdb
+C:\Users\MY\Downloads\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\ref\HRISgenericInterfaces.dll
+F:\Final Project\10thMid_ProjectProgress\HumanResourceInformationSystems\HRISinterfaces\bin\Debug\net7.0\HRISgenericInterfaces.deps.json
+F:\Final Project\10thMid_ProjectProgress\HumanResourceInformationSystems\HRISinterfaces\bin\Debug\net7.0\HRISgenericInterfaces.dll
+F:\Final Project\10thMid_ProjectProgress\HumanResourceInformationSystems\HRISinterfaces\bin\Debug\net7.0\HRISgenericInterfaces.pdb
+F:\Final Project\10thMid_ProjectProgress\HumanResourceInformationSystems\HRISinterfaces\bin\Debug\net7.0\HRISdatabaseModels.dll
+F:\Final Project\10thMid_ProjectProgress\HumanResourceInformationSystems\HRISinterfaces\bin\Debug\net7.0\HRISdatabaseModels.pdb
+F:\Final Project\10thMid_ProjectProgress\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.csproj.AssemblyReference.cache
+F:\Final Project\10thMid_ProjectProgress\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+F:\Final Project\10thMid_ProjectProgress\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.AssemblyInfoInputs.cache
+F:\Final Project\10thMid_ProjectProgress\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.AssemblyInfo.cs
+F:\Final Project\10thMid_ProjectProgress\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.csproj.CoreCompileInputs.cache
+F:\Final Project\10thMid_ProjectProgress\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.csproj.CopyComplete
+F:\Final Project\10thMid_ProjectProgress\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.dll
+F:\Final Project\10thMid_ProjectProgress\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\refint\HRISgenericInterfaces.dll
+F:\Final Project\10thMid_ProjectProgress\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.pdb
+F:\Final Project\10thMid_ProjectProgress\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\ref\HRISgenericInterfaces.dll
+G:\Human Resource Information Systems\Today\HumanResourceInformationSystems - Copy\HRISinterfaces\bin\Debug\net7.0\HRISgenericInterfaces.deps.json
+G:\Human Resource Information Systems\Today\HumanResourceInformationSystems - Copy\HRISinterfaces\bin\Debug\net7.0\HRISgenericInterfaces.dll
+G:\Human Resource Information Systems\Today\HumanResourceInformationSystems - Copy\HRISinterfaces\bin\Debug\net7.0\HRISgenericInterfaces.pdb
+G:\Human Resource Information Systems\Today\HumanResourceInformationSystems - Copy\HRISinterfaces\bin\Debug\net7.0\HRISdatabaseModels.dll
+G:\Human Resource Information Systems\Today\HumanResourceInformationSystems - Copy\HRISinterfaces\bin\Debug\net7.0\HRISdatabaseModels.pdb
+G:\Human Resource Information Systems\Today\HumanResourceInformationSystems - Copy\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.csproj.AssemblyReference.cache
+G:\Human Resource Information Systems\Today\HumanResourceInformationSystems - Copy\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+G:\Human Resource Information Systems\Today\HumanResourceInformationSystems - Copy\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.AssemblyInfoInputs.cache
+G:\Human Resource Information Systems\Today\HumanResourceInformationSystems - Copy\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.AssemblyInfo.cs
+G:\Human Resource Information Systems\Today\HumanResourceInformationSystems - Copy\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.csproj.CoreCompileInputs.cache
+G:\Human Resource Information Systems\Today\HumanResourceInformationSystems - Copy\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.csproj.CopyComplete
+G:\Human Resource Information Systems\Today\HumanResourceInformationSystems - Copy\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.dll
+G:\Human Resource Information Systems\Today\HumanResourceInformationSystems - Copy\HRISinterfaces\obj\Debug\net7.0\refint\HRISgenericInterfaces.dll
+G:\Human Resource Information Systems\Today\HumanResourceInformationSystems - Copy\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.pdb
+G:\Human Resource Information Systems\Today\HumanResourceInformationSystems - Copy\HRISinterfaces\obj\Debug\net7.0\ref\HRISgenericInterfaces.dll
+G:\Human Resource Information Systems\Today\HumanResourceInformationSystems\HRISinterfaces\bin\Debug\net7.0\HRISgenericInterfaces.deps.json
+G:\Human Resource Information Systems\Today\HumanResourceInformationSystems\HRISinterfaces\bin\Debug\net7.0\HRISgenericInterfaces.dll
+G:\Human Resource Information Systems\Today\HumanResourceInformationSystems\HRISinterfaces\bin\Debug\net7.0\HRISgenericInterfaces.pdb
+G:\Human Resource Information Systems\Today\HumanResourceInformationSystems\HRISinterfaces\bin\Debug\net7.0\HRISdatabaseModels.dll
+G:\Human Resource Information Systems\Today\HumanResourceInformationSystems\HRISinterfaces\bin\Debug\net7.0\HRISdatabaseModels.pdb
+G:\Human Resource Information Systems\Today\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.csproj.AssemblyReference.cache
+G:\Human Resource Information Systems\Today\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+G:\Human Resource Information Systems\Today\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.AssemblyInfoInputs.cache
+G:\Human Resource Information Systems\Today\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.AssemblyInfo.cs
+G:\Human Resource Information Systems\Today\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.csproj.CoreCompileInputs.cache
+G:\Human Resource Information Systems\Today\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.csproj.CopyComplete
+G:\Human Resource Information Systems\Today\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.dll
+G:\Human Resource Information Systems\Today\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\refint\HRISgenericInterfaces.dll
+G:\Human Resource Information Systems\Today\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.pdb
+G:\Human Resource Information Systems\Today\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\ref\HRISgenericInterfaces.dll
+G:\Practice\HumanResourceInformationSystems\HRISinterfaces\bin\Debug\net7.0\HRISgenericInterfaces.deps.json
+G:\Practice\HumanResourceInformationSystems\HRISinterfaces\bin\Debug\net7.0\HRISgenericInterfaces.dll
+G:\Practice\HumanResourceInformationSystems\HRISinterfaces\bin\Debug\net7.0\HRISgenericInterfaces.pdb
+G:\Practice\HumanResourceInformationSystems\HRISinterfaces\bin\Debug\net7.0\HRISdatabaseModels.dll
+G:\Practice\HumanResourceInformationSystems\HRISinterfaces\bin\Debug\net7.0\HRISdatabaseModels.pdb
+G:\Practice\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.csproj.AssemblyReference.cache
+G:\Practice\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+G:\Practice\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.AssemblyInfoInputs.cache
+G:\Practice\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.AssemblyInfo.cs
+G:\Practice\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.csproj.CoreCompileInputs.cache
+G:\Practice\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.csproj.CopyComplete
+G:\Practice\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.dll
+G:\Practice\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\refint\HRISgenericInterfaces.dll
+G:\Practice\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.pdb
+G:\Practice\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\ref\HRISgenericInterfaces.dll
+G:\Practice\Store Procedures\HumanResourceInformationSystems\HRISinterfaces\bin\Debug\net7.0\HRISgenericInterfaces.deps.json
+G:\Practice\Store Procedures\HumanResourceInformationSystems\HRISinterfaces\bin\Debug\net7.0\HRISgenericInterfaces.dll
+G:\Practice\Store Procedures\HumanResourceInformationSystems\HRISinterfaces\bin\Debug\net7.0\HRISgenericInterfaces.pdb
+G:\Practice\Store Procedures\HumanResourceInformationSystems\HRISinterfaces\bin\Debug\net7.0\HRISdatabaseModels.dll
+G:\Practice\Store Procedures\HumanResourceInformationSystems\HRISinterfaces\bin\Debug\net7.0\HRISdatabaseModels.pdb
+G:\Practice\Store Procedures\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.csproj.AssemblyReference.cache
+G:\Practice\Store Procedures\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+G:\Practice\Store Procedures\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.AssemblyInfoInputs.cache
+G:\Practice\Store Procedures\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.AssemblyInfo.cs
+G:\Practice\Store Procedures\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.csproj.CoreCompileInputs.cache
+G:\Practice\Store Procedures\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.csproj.CopyComplete
+G:\Practice\Store Procedures\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.dll
+G:\Practice\Store Procedures\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\refint\HRISgenericInterfaces.dll
+G:\Practice\Store Procedures\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.pdb
+G:\Practice\Store Procedures\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\ref\HRISgenericInterfaces.dll
+G:\Practice\Store Procedures\Store Procedure Practice\HumanResourceInformationSystems\HRISinterfaces\bin\Debug\net7.0\HRISgenericInterfaces.deps.json
+G:\Practice\Store Procedures\Store Procedure Practice\HumanResourceInformationSystems\HRISinterfaces\bin\Debug\net7.0\HRISgenericInterfaces.dll
+G:\Practice\Store Procedures\Store Procedure Practice\HumanResourceInformationSystems\HRISinterfaces\bin\Debug\net7.0\HRISgenericInterfaces.pdb
+G:\Practice\Store Procedures\Store Procedure Practice\HumanResourceInformationSystems\HRISinterfaces\bin\Debug\net7.0\HRISdatabaseModels.dll
+G:\Practice\Store Procedures\Store Procedure Practice\HumanResourceInformationSystems\HRISinterfaces\bin\Debug\net7.0\HRISdatabaseModels.pdb
+G:\Practice\Store Procedures\Store Procedure Practice\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.csproj.AssemblyReference.cache
+G:\Practice\Store Procedures\Store Procedure Practice\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+G:\Practice\Store Procedures\Store Procedure Practice\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.AssemblyInfoInputs.cache
+G:\Practice\Store Procedures\Store Procedure Practice\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.AssemblyInfo.cs
+G:\Practice\Store Procedures\Store Procedure Practice\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.csproj.CoreCompileInputs.cache
+G:\Practice\Store Procedures\Store Procedure Practice\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.csproj.CopyComplete
+G:\Practice\Store Procedures\Store Procedure Practice\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.dll
+G:\Practice\Store Procedures\Store Procedure Practice\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\refint\HRISgenericInterfaces.dll
+G:\Practice\Store Procedures\Store Procedure Practice\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.pdb
+G:\Practice\Store Procedures\Store Procedure Practice\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\ref\HRISgenericInterfaces.dll
+G:\Project Version 2\Generic & SP\Store Procedure Practice\HumanResourceInformationSystems\HRISinterfaces\bin\Debug\net7.0\HRISgenericInterfaces.deps.json
+G:\Project Version 2\Generic & SP\Store Procedure Practice\HumanResourceInformationSystems\HRISinterfaces\bin\Debug\net7.0\HRISgenericInterfaces.dll
+G:\Project Version 2\Generic & SP\Store Procedure Practice\HumanResourceInformationSystems\HRISinterfaces\bin\Debug\net7.0\HRISgenericInterfaces.pdb
+G:\Project Version 2\Generic & SP\Store Procedure Practice\HumanResourceInformationSystems\HRISinterfaces\bin\Debug\net7.0\HRISdatabaseModels.dll
+G:\Project Version 2\Generic & SP\Store Procedure Practice\HumanResourceInformationSystems\HRISinterfaces\bin\Debug\net7.0\HRISdatabaseModels.pdb
+G:\Project Version 2\Generic & SP\Store Procedure Practice\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.csproj.AssemblyReference.cache
+G:\Project Version 2\Generic & SP\Store Procedure Practice\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+G:\Project Version 2\Generic & SP\Store Procedure Practice\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.AssemblyInfoInputs.cache
+G:\Project Version 2\Generic & SP\Store Procedure Practice\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.AssemblyInfo.cs
+G:\Project Version 2\Generic & SP\Store Procedure Practice\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.csproj.CoreCompileInputs.cache
+G:\Project Version 2\Generic & SP\Store Procedure Practice\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.csproj.CopyComplete
+G:\Project Version 2\Generic & SP\Store Procedure Practice\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.dll
+G:\Project Version 2\Generic & SP\Store Procedure Practice\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\refint\HRISgenericInterfaces.dll
+G:\Project Version 2\Generic & SP\Store Procedure Practice\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.pdb
+G:\Project Version 2\Generic & SP\Store Procedure Practice\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\ref\HRISgenericInterfaces.dll
+G:\Project Version 2\Generic Controller & Store Procedure\Store Procedure Practice\HumanResourceInformationSystems\HRISinterfaces\bin\Debug\net7.0\HRISgenericInterfaces.deps.json
+G:\Project Version 2\Generic Controller & Store Procedure\Store Procedure Practice\HumanResourceInformationSystems\HRISinterfaces\bin\Debug\net7.0\HRISgenericInterfaces.dll
+G:\Project Version 2\Generic Controller & Store Procedure\Store Procedure Practice\HumanResourceInformationSystems\HRISinterfaces\bin\Debug\net7.0\HRISgenericInterfaces.pdb
+G:\Project Version 2\Generic Controller & Store Procedure\Store Procedure Practice\HumanResourceInformationSystems\HRISinterfaces\bin\Debug\net7.0\HRISdatabaseModels.dll
+G:\Project Version 2\Generic Controller & Store Procedure\Store Procedure Practice\HumanResourceInformationSystems\HRISinterfaces\bin\Debug\net7.0\HRISdatabaseModels.pdb
+G:\Project Version 2\Generic Controller & Store Procedure\Store Procedure Practice\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.csproj.AssemblyReference.cache
+G:\Project Version 2\Generic Controller & Store Procedure\Store Procedure Practice\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+G:\Project Version 2\Generic Controller & Store Procedure\Store Procedure Practice\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.AssemblyInfoInputs.cache
+G:\Project Version 2\Generic Controller & Store Procedure\Store Procedure Practice\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.AssemblyInfo.cs
+G:\Project Version 2\Generic Controller & Store Procedure\Store Procedure Practice\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.csproj.CoreCompileInputs.cache
+G:\Project Version 2\Generic Controller & Store Procedure\Store Procedure Practice\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.csproj.CopyComplete
+G:\Project Version 2\Generic Controller & Store Procedure\Store Procedure Practice\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.dll
+G:\Project Version 2\Generic Controller & Store Procedure\Store Procedure Practice\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\refint\HRISgenericInterfaces.dll
+G:\Project Version 2\Generic Controller & Store Procedure\Store Procedure Practice\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.pdb
+G:\Project Version 2\Generic Controller & Store Procedure\Store Procedure Practice\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\ref\HRISgenericInterfaces.dll
+G:\Version 1 API\HumanResourceInformationSystems\HRISinterfaces\bin\Debug\net7.0\HRISgenericInterfaces.deps.json
+G:\Version 1 API\HumanResourceInformationSystems\HRISinterfaces\bin\Debug\net7.0\HRISgenericInterfaces.dll
+G:\Version 1 API\HumanResourceInformationSystems\HRISinterfaces\bin\Debug\net7.0\HRISgenericInterfaces.pdb
+G:\Version 1 API\HumanResourceInformationSystems\HRISinterfaces\bin\Debug\net7.0\HRISdatabaseModels.dll
+G:\Version 1 API\HumanResourceInformationSystems\HRISinterfaces\bin\Debug\net7.0\HRISdatabaseModels.pdb
+G:\Version 1 API\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.csproj.AssemblyReference.cache
+G:\Version 1 API\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+G:\Version 1 API\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.AssemblyInfoInputs.cache
+G:\Version 1 API\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.AssemblyInfo.cs
+G:\Version 1 API\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.csproj.CoreCompileInputs.cache
+G:\Version 1 API\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.csproj.CopyComplete
+G:\Version 1 API\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.dll
+G:\Version 1 API\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\refint\HRISgenericInterfaces.dll
+G:\Version 1 API\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.pdb
+G:\Version 1 API\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\ref\HRISgenericInterfaces.dll
+G:\Version 2\HumanResourceInformationSystems\HRISinterfaces\bin\Debug\net7.0\HRISgenericInterfaces.deps.json
+G:\Version 2\HumanResourceInformationSystems\HRISinterfaces\bin\Debug\net7.0\HRISgenericInterfaces.dll
+G:\Version 2\HumanResourceInformationSystems\HRISinterfaces\bin\Debug\net7.0\HRISgenericInterfaces.pdb
+G:\Version 2\HumanResourceInformationSystems\HRISinterfaces\bin\Debug\net7.0\HRISdatabaseModels.dll
+G:\Version 2\HumanResourceInformationSystems\HRISinterfaces\bin\Debug\net7.0\HRISdatabaseModels.pdb
+G:\Version 2\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.csproj.AssemblyReference.cache
+G:\Version 2\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+G:\Version 2\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.AssemblyInfoInputs.cache
+G:\Version 2\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.AssemblyInfo.cs
+G:\Version 2\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.csproj.CoreCompileInputs.cache
+G:\Version 2\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.csproj.CopyComplete
+G:\Version 2\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.dll
+G:\Version 2\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\refint\HRISgenericInterfaces.dll
+G:\Version 2\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.pdb
+G:\Version 2\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\ref\HRISgenericInterfaces.dll
+G:\Group Project\Version2\HumanResourceInformationSystems\HRISinterfaces\bin\Debug\net7.0\HRISgenericInterfaces.deps.json
+G:\Group Project\Version2\HumanResourceInformationSystems\HRISinterfaces\bin\Debug\net7.0\HRISgenericInterfaces.dll
+G:\Group Project\Version2\HumanResourceInformationSystems\HRISinterfaces\bin\Debug\net7.0\HRISgenericInterfaces.pdb
+G:\Group Project\Version2\HumanResourceInformationSystems\HRISinterfaces\bin\Debug\net7.0\HRISdatabaseModels.dll
+G:\Group Project\Version2\HumanResourceInformationSystems\HRISinterfaces\bin\Debug\net7.0\HRISdatabaseModels.pdb
+G:\Group Project\Version2\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.csproj.AssemblyReference.cache
+G:\Group Project\Version2\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+G:\Group Project\Version2\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.AssemblyInfoInputs.cache
+G:\Group Project\Version2\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.AssemblyInfo.cs
+G:\Group Project\Version2\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.csproj.CoreCompileInputs.cache
+G:\Group Project\Version2\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.csproj.CopyComplete
+G:\Group Project\Version2\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.dll
+G:\Group Project\Version2\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\refint\HRISgenericInterfaces.dll
+G:\Group Project\Version2\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.pdb
+G:\Group Project\Version2\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\ref\HRISgenericInterfaces.dll
+F:\Final Project\Last Merge\HumanResourceInformationSystems\HRISinterfaces\bin\Debug\net7.0\HRISgenericInterfaces.deps.json
+F:\Final Project\Last Merge\HumanResourceInformationSystems\HRISinterfaces\bin\Debug\net7.0\HRISgenericInterfaces.dll
+F:\Final Project\Last Merge\HumanResourceInformationSystems\HRISinterfaces\bin\Debug\net7.0\HRISgenericInterfaces.pdb
+F:\Final Project\Last Merge\HumanResourceInformationSystems\HRISinterfaces\bin\Debug\net7.0\HRISdatabaseModels.dll
+F:\Final Project\Last Merge\HumanResourceInformationSystems\HRISinterfaces\bin\Debug\net7.0\HRISdatabaseModels.pdb
+F:\Final Project\Last Merge\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.csproj.AssemblyReference.cache
+F:\Final Project\Last Merge\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+F:\Final Project\Last Merge\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.AssemblyInfoInputs.cache
+F:\Final Project\Last Merge\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.AssemblyInfo.cs
+F:\Final Project\Last Merge\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.csproj.CoreCompileInputs.cache
+F:\Final Project\Last Merge\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.csproj.CopyComplete
+F:\Final Project\Last Merge\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.dll
+F:\Final Project\Last Merge\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\refint\HRISgenericInterfaces.dll
+F:\Final Project\Last Merge\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.pdb
+F:\Final Project\Last Merge\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\ref\HRISgenericInterfaces.dll
+E:\Last Merge\HumanResourceInformationSystems\HRISinterfaces\bin\Debug\net7.0\HRISgenericInterfaces.deps.json
+E:\Last Merge\HumanResourceInformationSystems\HRISinterfaces\bin\Debug\net7.0\HRISgenericInterfaces.dll
+E:\Last Merge\HumanResourceInformationSystems\HRISinterfaces\bin\Debug\net7.0\HRISgenericInterfaces.pdb
+E:\Last Merge\HumanResourceInformationSystems\HRISinterfaces\bin\Debug\net7.0\HRISdatabaseModels.dll
+E:\Last Merge\HumanResourceInformationSystems\HRISinterfaces\bin\Debug\net7.0\HRISdatabaseModels.pdb
+E:\Last Merge\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.csproj.AssemblyReference.cache
+E:\Last Merge\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+E:\Last Merge\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.AssemblyInfoInputs.cache
+E:\Last Merge\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.AssemblyInfo.cs
+E:\Last Merge\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.csproj.CoreCompileInputs.cache
+E:\Last Merge\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.csproj.CopyComplete
+E:\Last Merge\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.dll
+E:\Last Merge\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\refint\HRISgenericInterfaces.dll
+E:\Last Merge\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.pdb
+E:\Last Merge\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\ref\HRISgenericInterfaces.dll
+E:\Last Merge\HRIS_Auth_with_ERROR\HumanResourceInformationSystems\HRISinterfaces\bin\Debug\net7.0\HRISgenericInterfaces.deps.json
+E:\Last Merge\HRIS_Auth_with_ERROR\HumanResourceInformationSystems\HRISinterfaces\bin\Debug\net7.0\HRISgenericInterfaces.dll
+E:\Last Merge\HRIS_Auth_with_ERROR\HumanResourceInformationSystems\HRISinterfaces\bin\Debug\net7.0\HRISgenericInterfaces.pdb
+E:\Last Merge\HRIS_Auth_with_ERROR\HumanResourceInformationSystems\HRISinterfaces\bin\Debug\net7.0\HRISdatabaseModels.dll
+E:\Last Merge\HRIS_Auth_with_ERROR\HumanResourceInformationSystems\HRISinterfaces\bin\Debug\net7.0\HRISdatabaseModels.pdb
+E:\Last Merge\HRIS_Auth_with_ERROR\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.csproj.AssemblyReference.cache
+E:\Last Merge\HRIS_Auth_with_ERROR\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+E:\Last Merge\HRIS_Auth_with_ERROR\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.AssemblyInfoInputs.cache
+E:\Last Merge\HRIS_Auth_with_ERROR\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.AssemblyInfo.cs
+E:\Last Merge\HRIS_Auth_with_ERROR\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.csproj.CoreCompileInputs.cache
+E:\Last Merge\HRIS_Auth_with_ERROR\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.csproj.CopyComplete
+E:\Last Merge\HRIS_Auth_with_ERROR\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.dll
+E:\Last Merge\HRIS_Auth_with_ERROR\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\refint\HRISgenericInterfaces.dll
+E:\Last Merge\HRIS_Auth_with_ERROR\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.pdb
+E:\Last Merge\HRIS_Auth_with_ERROR\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\ref\HRISgenericInterfaces.dll
+E:\Last Merge\HRIS_Angular_Auth\HRIS_login_Register\HumanResourceInformationSystems\HRISinterfaces\bin\Debug\net7.0\HRISgenericInterfaces.deps.json
+E:\Last Merge\HRIS_Angular_Auth\HRIS_login_Register\HumanResourceInformationSystems\HRISinterfaces\bin\Debug\net7.0\HRISgenericInterfaces.dll
+E:\Last Merge\HRIS_Angular_Auth\HRIS_login_Register\HumanResourceInformationSystems\HRISinterfaces\bin\Debug\net7.0\HRISgenericInterfaces.pdb
+E:\Last Merge\HRIS_Angular_Auth\HRIS_login_Register\HumanResourceInformationSystems\HRISinterfaces\bin\Debug\net7.0\HRISdatabaseModels.dll
+E:\Last Merge\HRIS_Angular_Auth\HRIS_login_Register\HumanResourceInformationSystems\HRISinterfaces\bin\Debug\net7.0\HRISdatabaseModels.pdb
+E:\Last Merge\HRIS_Angular_Auth\HRIS_login_Register\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.csproj.AssemblyReference.cache
+E:\Last Merge\HRIS_Angular_Auth\HRIS_login_Register\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+E:\Last Merge\HRIS_Angular_Auth\HRIS_login_Register\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.AssemblyInfoInputs.cache
+E:\Last Merge\HRIS_Angular_Auth\HRIS_login_Register\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.AssemblyInfo.cs
+E:\Last Merge\HRIS_Angular_Auth\HRIS_login_Register\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.csproj.CoreCompileInputs.cache
+E:\Last Merge\HRIS_Angular_Auth\HRIS_login_Register\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.csproj.CopyComplete
+E:\Last Merge\HRIS_Angular_Auth\HRIS_login_Register\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.dll
+E:\Last Merge\HRIS_Angular_Auth\HRIS_login_Register\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\refint\HRISgenericInterfaces.dll
+E:\Last Merge\HRIS_Angular_Auth\HRIS_login_Register\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.pdb
+E:\Last Merge\HRIS_Angular_Auth\HRIS_login_Register\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\ref\HRISgenericInterfaces.dll
+G:\Group Project\Salma Tabassum Jahan\HRIS_login_Register_JWT\HumanResourceInformationSystems\HRISinterfaces\bin\Debug\net7.0\HRISgenericInterfaces.deps.json
+G:\Group Project\Salma Tabassum Jahan\HRIS_login_Register_JWT\HumanResourceInformationSystems\HRISinterfaces\bin\Debug\net7.0\HRISgenericInterfaces.dll
+G:\Group Project\Salma Tabassum Jahan\HRIS_login_Register_JWT\HumanResourceInformationSystems\HRISinterfaces\bin\Debug\net7.0\HRISgenericInterfaces.pdb
+G:\Group Project\Salma Tabassum Jahan\HRIS_login_Register_JWT\HumanResourceInformationSystems\HRISinterfaces\bin\Debug\net7.0\HRISdatabaseModels.dll
+G:\Group Project\Salma Tabassum Jahan\HRIS_login_Register_JWT\HumanResourceInformationSystems\HRISinterfaces\bin\Debug\net7.0\HRISdatabaseModels.pdb
+G:\Group Project\Salma Tabassum Jahan\HRIS_login_Register_JWT\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.csproj.AssemblyReference.cache
+G:\Group Project\Salma Tabassum Jahan\HRIS_login_Register_JWT\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+G:\Group Project\Salma Tabassum Jahan\HRIS_login_Register_JWT\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.AssemblyInfoInputs.cache
+G:\Group Project\Salma Tabassum Jahan\HRIS_login_Register_JWT\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.AssemblyInfo.cs
+G:\Group Project\Salma Tabassum Jahan\HRIS_login_Register_JWT\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.csproj.CoreCompileInputs.cache
+G:\Group Project\Salma Tabassum Jahan\HRIS_login_Register_JWT\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.csproj.CopyComplete
+G:\Group Project\Salma Tabassum Jahan\HRIS_login_Register_JWT\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.dll
+G:\Group Project\Salma Tabassum Jahan\HRIS_login_Register_JWT\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\refint\HRISgenericInterfaces.dll
+G:\Group Project\Salma Tabassum Jahan\HRIS_login_Register_JWT\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.pdb
+G:\Group Project\Salma Tabassum Jahan\HRIS_login_Register_JWT\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\ref\HRISgenericInterfaces.dll
+G:\Group Project\Version 5\Server\JWT\HumanResourceInformationSystems\HRISinterfaces\bin\Debug\net7.0\HRISgenericInterfaces.deps.json
+G:\Group Project\Version 5\Server\JWT\HumanResourceInformationSystems\HRISinterfaces\bin\Debug\net7.0\HRISgenericInterfaces.dll
+G:\Group Project\Version 5\Server\JWT\HumanResourceInformationSystems\HRISinterfaces\bin\Debug\net7.0\HRISgenericInterfaces.pdb
+G:\Group Project\Version 5\Server\JWT\HumanResourceInformationSystems\HRISinterfaces\bin\Debug\net7.0\HRISdatabaseModels.dll
+G:\Group Project\Version 5\Server\JWT\HumanResourceInformationSystems\HRISinterfaces\bin\Debug\net7.0\HRISdatabaseModels.pdb
+G:\Group Project\Version 5\Server\JWT\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.csproj.AssemblyReference.cache
+G:\Group Project\Version 5\Server\JWT\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+G:\Group Project\Version 5\Server\JWT\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.AssemblyInfoInputs.cache
+G:\Group Project\Version 5\Server\JWT\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.AssemblyInfo.cs
+G:\Group Project\Version 5\Server\JWT\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.csproj.CoreCompileInputs.cache
+G:\Group Project\Version 5\Server\JWT\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.csproj.CopyComplete
+G:\Group Project\Version 5\Server\JWT\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.dll
+G:\Group Project\Version 5\Server\JWT\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\refint\HRISgenericInterfaces.dll
+G:\Group Project\Version 5\Server\JWT\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\HRISgenericInterfaces.pdb
+G:\Group Project\Version 5\Server\JWT\HumanResourceInformationSystems\HRISinterfaces\obj\Debug\net7.0\ref\HRISgenericInterfaces.dll
